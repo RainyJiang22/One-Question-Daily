@@ -13,7 +13,7 @@
 ## 题目分类汇总
 以下针对不同类型的题目，进行分类，方便大家进行参考和提issue
 
-### **一、计算机基础方面**
+### 一、计算机基础方面
 
 #### 计算机网络
 - [Http与Https的区别](https://github.com/RainyJiang22/One-Question-Daily/issues/1)
