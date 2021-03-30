@@ -1,7 +1,9 @@
 # One-Question-Daily
 
   <a href="#交流"><img src="https://img.shields.io/badge/QQ%E4%BA%A4%E6%B5%81-3434481891-yellow"></a>
+  <a href="https://www.wanandroid.com"><img src="https://img.shields.io/badge/Thanks-%E6%8E%98%E9%87%91-orange" alt="Thanks"></a>
   <a href="https://www.wanandroid.com"><img src="https://img.shields.io/badge/Thanks-wanandroid-%23095B87.svg" alt="Thanks"></a>
+ 
 
 ----
 
