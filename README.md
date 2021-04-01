@@ -23,7 +23,7 @@
 ### 二、软件测试方面
 
 #### 软测基础
-- [1、软件测试的基本流程是什么？](https://github.com/RainyJiang22/One-Question-Daily/issues/4)
+- [1、软件测试的基本流程是什么](https://github.com/RainyJiang22/One-Question-Daily/issues/4)
 
 #### 单元测试
 
