@@ -19,16 +19,16 @@
 
 |题目|贡献者|
 |:---:|:---:|
-|:[Http与Https的区别](https://github.com/RainyJiang22/One-Question-Daily/issues/1):|:RainyJiang:|
-|:[Http1.1和http1.0以及2.0的区别](https://github.com/RainyJiang22/One-Question-Daily/issues/3):|:RainyJiang:|
-|:[关于Https请求慢的解决方案](https://github.com/RainyJiang22/One-Question-Daily/issues/5):|:RainyJiang:|
+|[Http与Https的区别](https://github.com/RainyJiang22/One-Question-Daily/issues/1)|RainyJiang|
+|[Http1.1和http1.0以及2.0的区别](https://github.com/RainyJiang22/One-Question-Daily/issues/3)|RainyJiang|
+|[关于Https请求慢的解决方案](https://github.com/RainyJiang22/One-Question-Daily/issues/5)|RainyJiang|
 
 ### 二、软件测试方面
 
 #### 软测基础
 |题目|贡献者|
 |:---:|:---:|
-|:[软件测试的基本流程是什么](https://github.com/RainyJiang22/One-Question-Daily/issues/4):|:lucky-star:|
+|[软件测试的基本流程是什么](https://github.com/RainyJiang22/One-Question-Daily/issues/4)|lucky-star|
 
 
 #### 单元测试
@@ -36,7 +36,7 @@
 #### 接口测试
 |题目|贡献者|
 |:---:|:---:|
-|:[如何进行接口测试](https://github.com/RainyJiang22/One-Question-Daily/issues/2):|:lucky-star:|
+|[如何进行接口测试](https://github.com/RainyJiang22/One-Question-Daily/issues/2)|lucky-star|
 
 
 #### 自动化测试
@@ -44,5 +44,5 @@
 #### 性能测试
 |题目|贡献者|
 |:---:|:---:|
-|:[使用jmeter进行性能测试一般如何录制性能测试脚本](https://github.com/RainyJiang22/One-Question-Daily/issues/6):|:lucky-star:|
+|[使用jmeter进行性能测试一般如何录制性能测试脚本](https://github.com/RainyJiang22/One-Question-Daily/issues/6)|lucky-star|
 
