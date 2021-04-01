@@ -33,3 +33,4 @@
 #### 自动化测试
 
 #### 性能测试
+- [使用jmeter进行性能测试可以使用什么方式录制脚本](https://github.com/RainyJiang22/One-Question-Daily/issues/6)
