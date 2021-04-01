@@ -10,6 +10,13 @@
 每日都更新一道题目，和我们一起坚持下去，积少成多，相信各位都可以成为未来的大牛
 
 
+## 如何贡献？
+
+1. 可以加入我们的大本营成为[**贡献者**](https://github.com/RainyJiang22/One-Question-Daily/graphs/contributors)一员？来进行完善和壮大本项目
+2. 前往👉[**答题区**](https://github.com/RainyJiang22/One-Question-Daily/issues)留下你的见解，让更多人认识你！
+3. 加入我们的QQ群，参与本项目的维护或者讨论：[**444284072**](https://jq.qq.com/?_wv=1027&k=3wcl5ebT)
+
+
 ## 题目分类汇总
 以下针对不同类型的题目，进行分类，方便大家进行参考和提issue
 
