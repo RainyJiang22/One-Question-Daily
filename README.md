@@ -29,6 +29,7 @@
 |[Http与Https的区别](https://github.com/RainyJiang22/One-Question-Daily/issues/1)|RainyJiang|
 |[Http1.1和http1.0以及2.0的区别](https://github.com/RainyJiang22/One-Question-Daily/issues/3)|RainyJiang|
 |[关于Https请求慢的解决方案](https://github.com/RainyJiang22/One-Question-Daily/issues/5)|RainyJiang|
+|[简述下计算机网络体系结构的OSI模型和TCP/IP模型](https://github.com/RainyJiang22/One-Question-Daily/issues/7)|RainyJiang|
 
 ### 二、软件测试方面
 
