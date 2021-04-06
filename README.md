@@ -48,6 +48,7 @@
 |题目|贡献者|
 |:---:|:---:|
 |[如何进行接口测试](https://github.com/RainyJiang22/One-Question-Daily/issues/2)|lucky-star|
+|[怎么使用moco-runner进行moco接口测试](https://github.com/RainyJiang22/One-Question-Daily/issues/11)|lucky-star|
 
 
 #### 自动化测试
