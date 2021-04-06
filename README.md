@@ -33,6 +33,8 @@
 |[http数据传输过程是怎样的](https://github.com/RainyJiang22/One-Question-Daily/issues/9)|lucky-star|
 |[来说说知道哪些响应码](https://github.com/RainyJiang22/One-Question-Daily/issues/8)|RainyJiang|
 |[谈谈对http缓存的了解](https://github.com/RainyJiang22/One-Question-Daily/issues/10)|RainyJiang|
+|[谈谈http的request和response的组成](https://github.com/RainyJiang22/One-Question-Daily/issues/12)|RainyJiang|
+
 
 ### 二、软件测试方面
 
