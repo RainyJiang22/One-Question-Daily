@@ -34,6 +34,7 @@
 |[来说说知道哪些响应码](https://github.com/RainyJiang22/One-Question-Daily/issues/8)|RainyJiang|
 |[谈谈对http缓存的了解](https://github.com/RainyJiang22/One-Question-Daily/issues/10)|RainyJiang|
 |[谈谈http的request和response的组成](https://github.com/RainyJiang22/One-Question-Daily/issues/12)|RainyJiang|
+|[关于TCP的三次握手和四次挥手](https://github.com/RainyJiang22/One-Question-Daily/issues/13)|RainyJiang|
 
 
 ### 二、软件测试方面
