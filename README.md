@@ -36,6 +36,7 @@
 |[谈谈http的request和response的组成](https://github.com/RainyJiang22/One-Question-Daily/issues/12)|RainyJiang|
 |[关于TCP的三次握手和四次挥手](https://github.com/RainyJiang22/One-Question-Daily/issues/13)|RainyJiang|
 |[TCP和UDP的区别](https://github.com/RainyJiang22/One-Question-Daily/issues/14)|RainyJiang|
+|[HTTP协议的特点是什么](https://github.com/RainyJiang22/One-Question-Daily/issues/15)|lucky-star|
 
 #### 操作系统
 👉 明日开始更新
