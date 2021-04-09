@@ -39,7 +39,7 @@
 |[HTTP协议的特点是什么](https://github.com/RainyJiang22/One-Question-Daily/issues/15)|lucky-star|
 
 #### 操作系统
-👉 明日开始更新
+|[进程和线程的区别](https://github.com/RainyJiang22/One-Question-Daily/issues/16)|RainyJiang|
 
 ### 二、软件测试方面
 
