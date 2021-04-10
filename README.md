@@ -61,6 +61,8 @@
 
 
 #### 自动化测试
+|题目|贡献者|
+|:---:|:---:|
 |[使用unittest自动化测试框架时，Pycharm上python运行和unittest运行的不同之处](https://github.com/RainyJiang22/One-Question-Daily/issues/17)|lucky-star|
 
 #### 性能测试
