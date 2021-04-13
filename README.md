@@ -42,6 +42,13 @@
 |题目|贡献值|
 |:---:|:---:|
 |[进程和线程的区别](https://github.com/RainyJiang22/One-Question-Daily/issues/16)|RainyJiang|
+|[谈谈Liunx的软链接和硬链接](https://github.com/RainyJiang22/One-Question-Daily/issues/18)|RainyJiang|
+|[造成死锁的必要条件](https://github.com/RainyJiang22/One-Question-Daily/issues/19)|RainyJiang|
+
+#### Linux基础
+|题目|贡献值|
+|:---:|:---:|
+|[简单了解下Liunx的VIM 三个模式](https://github.com/RainyJiang22/One-Question-Daily/issues/20)|RainyJiang|
 
 ### 二、软件测试方面
 
