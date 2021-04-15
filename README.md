@@ -49,6 +49,7 @@
 |:---:|:---:|
 |[谈谈Liunx的软链接和硬链接](https://github.com/RainyJiang22/One-Question-Daily/issues/18)|RainyJiang|
 |[简单了解下Liunx的VIM 三个模式](https://github.com/RainyJiang22/One-Question-Daily/issues/20)|RainyJiang|
+|[谈谈Liunx的文件属性](https://github.com/RainyJiang22/One-Question-Daily/issues/21)|RainyJiang|
 
 ### 二、软件测试方面
 
@@ -65,6 +66,7 @@
 |:---:|:---:|
 |[如何进行接口测试](https://github.com/RainyJiang22/One-Question-Daily/issues/2)|lucky-star|
 |[怎么使用moco-runner进行moco接口测试](https://github.com/RainyJiang22/One-Question-Daily/issues/11)|lucky-star|
+|[在postman中使用form-data、x-www-form-urlencoded、raw、binary的区别](https://github.com/RainyJiang22/One-Question-Daily/issues/22)|RainyJiang|
 
 
 #### 自动化测试
