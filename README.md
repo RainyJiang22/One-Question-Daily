@@ -39,17 +39,26 @@
 |[HTTP协议的特点是什么](https://github.com/RainyJiang22/One-Question-Daily/issues/15)|lucky-star|
 
 #### 操作系统
-|题目|贡献值|
+|题目|贡献者|
 |:---:|:---:|
 |[进程和线程的区别](https://github.com/RainyJiang22/One-Question-Daily/issues/16)|RainyJiang|
 |[造成死锁的必要条件](https://github.com/RainyJiang22/One-Question-Daily/issues/19)|RainyJiang|
 
 #### Linux基础
-|题目|贡献值|
+|题目|贡献者|
 |:---:|:---:|
 |[谈谈Liunx的软链接和硬链接](https://github.com/RainyJiang22/One-Question-Daily/issues/18)|RainyJiang|
 |[简单了解下Liunx的VIM 三个模式](https://github.com/RainyJiang22/One-Question-Daily/issues/20)|RainyJiang|
 |[谈谈Liunx的文件属性](https://github.com/RainyJiang22/One-Question-Daily/issues/21)|RainyJiang|
+
+#### 数据库
+|题目|贡献者|
+|:---:|:---:|
+|[谈谈SQL语句的查询语法](https://github.com/RainyJiang22/One-Question-Daily/issues/23)|RainyJiang|
+|[关于SQL语句的排序](https://github.com/RainyJiang22/One-Question-Daily/issues/24)|RainyJiang|
+
+### Java基础
+👉 下周开始更新了
 
 ### 二、软件测试方面
 
