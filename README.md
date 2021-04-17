@@ -57,10 +57,10 @@
 |[谈谈SQL语句的查询语法](https://github.com/RainyJiang22/One-Question-Daily/issues/23)|RainyJiang|
 |[关于SQL语句的排序](https://github.com/RainyJiang22/One-Question-Daily/issues/24)|RainyJiang|
 
-### Java基础
+### 二、Java基础
 👉 下周开始更新了
 
-### 二、软件测试方面
+### 三、软件测试方面
 
 #### 软测基础
 |题目|贡献者|
