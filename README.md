@@ -54,15 +54,21 @@
 #### 数据库
 |题目|贡献者|
 |:---:|:---:|
-|[谈谈SQL语句的查询语法](https://github.com/RainyJiang22/One-Question-Daily/issues/23)|RainyJiang|
+|[谈谈对java多态的理解](https://github.com/RainyJiang22/One-Question-Daily/issues/26)|RainyJiang|
 |[关于SQL语句的排序](https://github.com/RainyJiang22/One-Question-Daily/issues/24)|RainyJiang|
 
 ### 二、Java基础
-👉 下周开始更新了
-
+|题目|贡献者|
+|:---:|:---:|
+|[谈谈SQL语句的查询语法](https://github.com/RainyJiang22/One-Question-Daily/issues/23)|RainyJiang|
+|[不用静态内部类实现单例模式有哪些优点](https://github.com/RainyJiang22/One-Question-Daily/issues/27)|RainyJiang|
+|[StringBuffer，StringBuilder,String的区别](https://github.com/RainyJiang22/One-Question-Daily/issues/28)|RainyJiang|
 
 ### 三、Python基础
-👉 下周开始更新了
+|题目|贡献者|
+|:---:|:---:|
+|[Python中不使用中间变量，交换两个变量a和b的值](https://github.com/RainyJiang22/One-Question-Daily/issues/29)|RainyJiang|
+|[在Python中实现单例模式](https://github.com/RainyJiang22/One-Question-Daily/issues/30)|RainyJiang|
 
 ### 四、软件测试方面
 
