@@ -54,13 +54,13 @@
 #### 数据库
 |题目|贡献者|
 |:---:|:---:|
-|[谈谈对java多态的理解](https://github.com/RainyJiang22/One-Question-Daily/issues/26)|RainyJiang|
+|[谈谈SQL语句的查询语法](https://github.com/RainyJiang22/One-Question-Daily/issues/23)|RainyJiang|
 |[关于SQL语句的排序](https://github.com/RainyJiang22/One-Question-Daily/issues/24)|RainyJiang|
 
 ### 二、Java基础
 |题目|贡献者|
 |:---:|:---:|
-|[谈谈SQL语句的查询语法](https://github.com/RainyJiang22/One-Question-Daily/issues/23)|RainyJiang|
+|[谈谈对java多态的理解](https://github.com/RainyJiang22/One-Question-Daily/issues/26)|RainyJiang|
 |[不用静态内部类实现单例模式有哪些优点](https://github.com/RainyJiang22/One-Question-Daily/issues/27)|RainyJiang|
 |[StringBuffer，StringBuilder,String的区别](https://github.com/RainyJiang22/One-Question-Daily/issues/28)|RainyJiang|
 
