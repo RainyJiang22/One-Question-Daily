@@ -63,12 +63,24 @@
 |[谈谈对java多态的理解](https://github.com/RainyJiang22/One-Question-Daily/issues/26)|RainyJiang|
 |[不用静态内部类实现单例模式有哪些优点](https://github.com/RainyJiang22/One-Question-Daily/issues/27)|RainyJiang|
 |[StringBuffer，StringBuilder,String的区别](https://github.com/RainyJiang22/One-Question-Daily/issues/28)|RainyJiang|
+|[你所知道的设计模式有哪些](https://github.com/RainyJiang22/One-Question-Daily/issues/33)|RainyJiang|
+|[集合框架，list，map，set都有哪些具体的实现类，区别是什么](https://github.com/RainyJiang22/One-Question-Daily/issues/34)|RainyJiang|
+|[set模式从原理上如何保证不重复 ](https://github.com/RainyJiang22/One-Question-Daily/issues/35)|RainyJiang|
+|[简单工厂，工厂方法，抽象工厂，Builder模式的区别](https://github.com/RainyJiang22/One-Question-Daily/issues/36)|RainyJiang|
+|[ArrayList和LinkedList怎么动态扩容的吗](https://github.com/RainyJiang22/One-Question-Daily/issues/37)|RRainyJiang|
+|[Java中的线程池共有几种](https://github.com/RainyJiang22/One-Question-Daily/issues/38)|RainyJiang|
+|[JVM常见的调优参数有哪些](https://github.com/RainyJiang22/One-Question-Daily/issues/39)|RainyJiang|
+
+
 
 ### 三、Python基础
 |题目|贡献者|
 |:---:|:---:|
 |[Python中不使用中间变量，交换两个变量a和b的值](https://github.com/RainyJiang22/One-Question-Daily/issues/29)|RainyJiang|
 |[在Python中实现单例模式](https://github.com/RainyJiang22/One-Question-Daily/issues/30)|RainyJiang|
+|[说说Python中的浅拷贝和深拷贝](https://github.com/RainyJiang22/One-Question-Daily/issues/32)|RainyJiang|
+|[Python是如何实现内存管理的](https://github.com/RainyJiang22/One-Question-Daily/issues/40)|RainyJiang|
+|[Lambda函数是什么，举例说明的它的应用场景](https://github.com/RainyJiang22/One-Question-Daily/issues/41)|RainyJiang|
 
 ### 四、软件测试方面
 
